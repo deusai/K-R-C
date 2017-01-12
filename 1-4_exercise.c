@@ -2,7 +2,7 @@
 
 /*
  * Write a program to print the corresponding Celsius to Fahrenheit table.
- * made by Jesus Ricardo Bernal (deusai) on Sunday, January 9, 2017.
+ * made by Jesus Ricardo Bernal (deusai) on Monday, January 9, 2017.
  */
 
 int main()

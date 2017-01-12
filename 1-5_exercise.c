@@ -3,7 +3,7 @@
 /*
  * Modify the temperature conversion program to print the table in 
  * reverse order that is from 300 to 0.
- * made by Jesus Ricardo Bernal (deusai) on Sunday, January 10, 2017.
+ * made by Jesus Ricardo Bernal (deusai) on Tuesday, January 10, 2017.
  */
 
 int main()
